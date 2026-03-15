@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Twitter Sentiment Dashboard
 
 A production-ready dashboard that streams tweets, performs VADER sentiment analysis, and visualizes trends in real-time.
@@ -29,3 +30,7 @@ A production-ready dashboard that streams tweets, performs VADER sentiment analy
 - `src/`: Core logic modules.
 - `data/`: Stores polled tweets locally.
 - `dashboard.py`: Frontend UI.
+=======
+# Real-Time-Sentiment-Dashboard
+ml project
+>>>>>>> 0f265cbee79e2aef56ceb2c70b2d1cf00fc7b7fb
