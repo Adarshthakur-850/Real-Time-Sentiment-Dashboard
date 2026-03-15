@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tweepy
+pandas
+numpy
+nltk
+streamlit
+plotly
+wordcloud
+python-dotenv
+streamlit-autorefresh
