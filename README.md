@@ -1,8 +1,6 @@
 Here’s a complete, professional **README.md** tailored for your **Real-Time Sentiment Dashboard** project at
 👉 [https://github.com/Adarshthakur-850/Real-Time-Sentiment-Dashboard](https://github.com/Adarshthakur-850/Real-Time-Sentiment-Dashboard)
 
----
-
 # 📊 Real-Time Sentiment Dashboard
 
 A scalable and interactive web dashboard that visualizes sentiment analysis in real time from live data streams. The dashboard captures textual data, processes it using NLP models, and displays sentiment trends, insights, and analytics through intuitive visuals.
@@ -237,19 +235,4 @@ Machine Learning Engineer | Data Scientist | DevOps Practitioner
 
 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
 
----
 
-## 📜 License
-
-Published under **MIT License**
-
----
-
-If you want, I can also generate:
-
-✔ Industry-standard badges (license, build, main branch)
-✔ A visual architecture diagram
-✔ Deployment guide with cloud examples
-✔ A test suite with automated coverage reports
-
-Just tell me the stack you actually used!
