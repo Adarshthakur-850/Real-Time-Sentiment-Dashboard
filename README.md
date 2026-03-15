@@ -1,5 +1,3 @@
-Here’s a complete, professional **README.md** tailored for your **Real-Time Sentiment Dashboard** project at
-👉 [https://github.com/Adarshthakur-850/Real-Time-Sentiment-Dashboard](https://github.com/Adarshthakur-850/Real-Time-Sentiment-Dashboard)
 
 # 📊 Real-Time Sentiment Dashboard
 
